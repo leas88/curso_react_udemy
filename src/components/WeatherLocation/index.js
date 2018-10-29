@@ -3,7 +3,7 @@ import Location from './Location';
 import WeatherData from './WeatherData'
 const WeatherLocation = () => (  //Arrow functión de ECMAScript
       <div>
-            <Location city="New york"></Location>
+            <Location city="Mexico City"></Location>
             <WeatherData></WeatherData>
       </div>
 );
