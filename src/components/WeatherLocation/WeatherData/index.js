@@ -9,7 +9,7 @@ import {
 import './styles.css'
 
 const WeatherData = () => (
-  <div className="weatherDataCount">
+  <div className="weatherDataCont">
     <WeatherTemperature temperature={20} weatherState={SNOW}></WeatherTemperature><br />
     <WeatherExtraInfo humidity={70} wind="100 m/s"></WeatherExtraInfo>
   </div>
