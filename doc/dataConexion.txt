@@ -1,0 +1,13 @@
+user: leas88
+email:cenitluis.pumas@gmail.com
+password: leas1988
+
+servicio de clima link: https://openweathermap.org/current
+
+key: d41c7f80621d347a9d649fd5b16bd196
+     
+ejemplo: call 
+
+api.openweathermap.org/data/2.5/weather?q=London
+api.openweathermap.org/data/2.5/weather?q=London,uk 
+https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22
